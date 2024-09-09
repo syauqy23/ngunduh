@@ -107,7 +107,7 @@ function openInvitation() {
 const musicButton = document.getElementById("music-button");
 const musicIcon = document.getElementById("music-icon");
 
-const music = new Audio("audio/theme.mp3");
+const music = new Audio("audio/ngunduh.mp3");
 let isPlaying = false;
 
 musicButton.addEventListener("click", () => {
