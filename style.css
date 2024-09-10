@@ -106,11 +106,13 @@ body {
 
 #pre-invitation .guest-name {
   font-family: "DM Serif Display", serif;
-  font-size: 20px;
+  font-size: 1.2rem;
   font-weight: bold;
   text-align: center;
   margin-bottom: 10px;
   margin-top: 24%;
+  margin-left: -50%;
+  margin-right: -50%;
 }
 
 .animate__animated.animate__slow {
